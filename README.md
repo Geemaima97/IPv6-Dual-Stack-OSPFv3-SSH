@@ -1,5 +1,8 @@
 # IPv6 Dual-Stack + OSPFv3 + SSH
 
+## Network Topology
+<img width="472" height="356" alt="IPv6 Dual-Stack + OSPFv3 + SSH" src="https://github.com/user-attachments/assets/cda91c03-83d3-4812-b2e6-a418952172c8" />
+
 ## Objective
 Configure both IPv4 and IPv6 addresses on routers, enable OSPFv2 and OSPFv3 in area 0, and secure router management using SSH. Verify routing for both protocols.
 
@@ -22,5 +25,4 @@ Configure both IPv4 and IPv6 addresses on routers, enable OSPFv2 and OSPFv3 in a
 5. Test SSH login from a connected PC.
 6. Confirm IPv6 routing with `ping` and `show ipv6 route`.
 
-*Ref 1: Network Diagram*  
-![Network Diagram](imgsrc)
+
